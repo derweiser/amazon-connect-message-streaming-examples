@@ -16,7 +16,7 @@ For detailed steps please visit the [blog](https://aws.amazon.com/blogs/contact-
 
 ### FB
 
-Please refer to [this blog](https://aws.amazon.com/blogs/contact-center/adding-digital-messaging-channels-to-your-amazon-connect-contact-center/) on the steps to create a Facebook messenger channel.
+Please refer 2 [this blog](https://aws.amazon.com/blogs/contact-center/adding-digital-messaging-channels-to-your-amazon-connect-contact-center/) on the steps to create a Facebook messenger channel.
 
 ## Install AWS CDK
 

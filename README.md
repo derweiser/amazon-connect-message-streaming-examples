@@ -94,7 +94,7 @@ cdk deploy \
 
 ### Agent chat path
 
-1. Agent sends reply message
+1. Agent sends reply messagev
 2. Chat message is delivered through Amazon Simple Notification Service to AWS Lambda
 3. AWS Lambda looks up the chat session context in Amazon DynamoDB
 4. AWS Lambda sends the chat message the source application directly through APIs (Facebook messenger) or Amazon Pinpoint (SMS message)
